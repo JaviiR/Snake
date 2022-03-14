@@ -24,7 +24,7 @@ public class Ventana extends JFrame {
         btn_inicio.setForeground(Color.white);
         btn_inicio.setFont(fuente);
         btn_inicio.setBorder(BorderFactory.createLineBorder(Color.black));
-
+        btn_inicio.setEditable(false);
 
 
         
